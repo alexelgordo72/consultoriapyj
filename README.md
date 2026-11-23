@@ -20,4 +20,4 @@ Plataforma web full-stack para automatizar el procesamiento de Balances de Prueb
 7. Certificación de los Estados Financieros (Art. 37 Ley 222 de 1995).
 8. Dictamen del Revisor Fiscal (NIA 700).
 9. Informe de Gestión (Art. 47 Ley 222 de 1995).
-10. Libro Excel Consolidado Formulado (`.xlsx`) con hoja de detalle por terceros.
+10. Libro Excel Consolidado Formulado (`.xlsx`) con pestaña `Detalle_Terceros`.

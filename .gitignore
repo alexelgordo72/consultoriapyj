@@ -1,24 +1,15 @@
-# Dependencias
 node_modules/
 */node_modules/
-
-# Variables de entorno y secretos
 .env
 *.env
 .env.*
-
-# Builds y logs
 dist/
 */dist/
 build/
 logs/
 */logs/
 *.log
-
-# Archivos subidos por clientes (mantener carpeta vacía)
 backend/uploads/*
 !backend/uploads/.gitkeep
-
-# Sistema operativo
 .DS_Store
 Thumbs.db
