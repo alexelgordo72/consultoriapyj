@@ -56,6 +56,9 @@ sequenceDiagram
     UI->>API: POST /api/reports/pdf | /excel
     API->>E: Calcula ESF, ERI, EFC, ECP, Notas
     E-->>UI: Descarga PDF o Excel (.xlsx)
+```
+
+---
 
 ## 🗄️ Modelo de Datos y Matriz PUC → NIIF
 
