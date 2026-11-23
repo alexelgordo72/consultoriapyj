@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 410" width="100%" height="100%">
+  <rect width="1100" height="410" rx="16" fill="#0F172A"/>
+  <text x="550" y="38" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">PIPELINE DE TRANSFORMACIÓN CONTABLE (LOGGRO / PUC → NIIF GRUPO 2)</text>
+  <text x="550" y="60" fill="#94A3B8" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Automatización integral de 21 hojas manuales de Excel hacia un motor auditado con prueba a ceros</text>
+  <rect x="30" y="88" width="225" height="285" rx="12" fill="#1E293B" stroke="#38BDF8" stroke-width="1.5"/>
+  <text x="142" y="116" fill="#38BDF8" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">1. ENTRADAS EXCEL</text>
+  <rect x="46" y="132" width="193" height="65" rx="8" fill="#0F172A"/>
+  <text x="142" y="156" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Balance Prueba Actual (N)</text>
+  <text x="142" y="175" fill="#94A3B8" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Exportación ERP Loggro (.xlsx)</text>
+  <rect x="46" y="210" width="193" height="65" rx="8" fill="#0F172A"/>
+  <text x="142" y="234" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Balance Comparativo (N-1)</text>
+  <text x="142" y="253" fill="#94A3B8" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Base Variaciones Flujo Efectivo</text>
+  <rect x="46" y="288" width="193" height="68" rx="8" fill="#0F172A"/>
+  <text x="142" y="312" fill="#34D399" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Consorcios y Terceros</text>
+  <text x="142" y="331" fill="#94A3B8" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">% Participación + Auxiliar NIT</text>
+  <rect x="295" y="88" width="235" height="285" rx="12" fill="#1E293B" stroke="#818CF8" stroke-width="1.5"/>
+  <text x="412" y="116" fill="#A5B4FC" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">2. PARSER Y NORMALIZACIÓN</text>
+  <rect x="311" y="132" width="203" height="65" rx="8" fill="#0F172A"/>
+  <text x="412" y="156" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Clasificación PUC Clases 1-7</text>
+  <text x="412" y="175" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Mapeo automático a rubros NIIF</text>
+  <rect x="311" y="210" width="203" height="65" rx="8" fill="#0F172A"/>
+  <text x="412" y="234" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Naturaleza y Nivel 4</text>
+  <text x="412" y="253" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Inversión crédito (2,3,4) × (-1)</text>
+  <rect x="311" y="288" width="203" height="68" rx="8" fill="#0F172A"/>
+  <text x="412" y="312" fill="#34D399" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Consolidación Societaria</text>
+  <text x="412" y="331" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Empresa Principal + Consorcio</text>
+  <rect x="570" y="88" width="235" height="285" rx="12" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.5"/>
+  <text x="687" y="116" fill="#2DD4BF" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">3. MOTOR CONTABLE NIIF</text>
+  <rect x="586" y="132" width="203" height="65" rx="8" fill="#0F172A"/>
+  <text x="687" y="156" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">ESF y ERI Comparativos</text>
+  <text x="687" y="175" fill="#2DD4BF" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Prueba a Ceros: A - P - Pt = $0</text>
+  <rect x="586" y="210" width="203" height="65" rx="8" fill="#0F172A"/>
+  <text x="687" y="234" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Flujo Efectivo Indirecto</text>
+  <text x="687" y="253" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Operación • Inversión • Financ.</text>
+  <rect x="586" y="288" width="203" height="68" rx="8" fill="#0F172A"/>
+  <text x="687" y="312" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Indicadores y Notas 1-30</text>
+  <text x="687" y="331" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Liquidez, ROA, ROE, Terceros</text>
+  <rect x="845" y="88" width="225" height="285" rx="12" fill="#1E293B" stroke="#34D399" stroke-width="1.5"/>
+  <text x="957" y="116" fill="#34D399" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">4. ENTREGABLES FINALES</text>
+  <rect x="861" y="132" width="193" height="143" rx="8" fill="#0F172A"/>
+  <text x="957" y="155" fill="#34D399" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">9 Informes Oficiales PDF</text>
+  <text x="957" y="175" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">ESF • ERI • EFC • ECP</text>
+  <text x="957" y="193" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Indicadores • Notas NIIF</text>
+  <text x="957" y="211" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Certificación Ley 222/95</text>
+  <text x="957" y="229" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Dictamen Revisor Fiscal</text>
+  <text x="957" y="247" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Informe de Gestión</text>
+  <rect x="861" y="288" width="193" height="68" rx="8" fill="#0F172A"/>
+  <text x="957" y="312" fill="#38BDF8" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Libro Excel (.XLSX)</text>
+  <text x="957" y="331" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">6 Hojas Formulado + Terceros</text>
+  <line x1="255" y1="230" x2="293" y2="230" stroke="#38BDF8" stroke-width="2.5"/>
+  <line x1="530" y1="230" x2="568" y2="230" stroke="#38BDF8" stroke-width="2.5"/>
+  <line x1="805" y1="230" x2="843" y2="230" stroke="#34D399" stroke-width="2.5"/>
+</svg>
